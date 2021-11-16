@@ -1,59 +1,26 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://lysder.github.io</id>
-    <title>Gridea</title>
-    <updated>2021-11-16T13:49:37.335Z</updated>
+    <title>Print World</title>
+    <updated>2021-11-16T14:06:42.692Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://lysder.github.io"/>
     <link rel="self" href="https://lysder.github.io/atom.xml"/>
-    <subtitle>温故而知新</subtitle>
+    <subtitle>欢迎访问</subtitle>
     <logo>https://lysder.github.io/images/avatar.png</logo>
     <icon>https://lysder.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2021, Gridea</rights>
+    <rights>All rights reserved 2021, Print World</rights>
     <entry>
         <title type="html"><![CDATA[笑话]]></title>
-        <id>https://lysder.github.io/post/xiao-hua/</id>
-        <link href="https://lysder.github.io/post/xiao-hua/">
+        <id>https://lysder.github.io/xiao-hua/</id>
+        <link href="https://lysder.github.io/xiao-hua/">
         </link>
         <updated>2021-11-16T13:32:08.000Z</updated>
-        <content type="html"><![CDATA[<!--markdown-->1.孔子问：您最近可好?  
-<p>老子说：不过尔尔。<br>
-孔子问：您的学问研究得如何了？<br>
-老子说：陈陈相因，不甚了了。<br>
-孔子说：听说您还给人讲课？<br>
-老子说： 以其昏昏，使人昭昭。<br>
-孔子一听，老子是高人啊，每句都是叠字成语。<br>
-于是孔子说 ：愿与君饮酒畅谈！<br>
-老子说：咦，我的杯杯呢?</p>
-<p>2.一个非主流打架死了，他父亲赶来说：作孽啊，让我一个白发人送红橙黄绿青蓝紫发人 ​</p>
-<p>3.“我有一份令人惊讶的工作” “什么工作？” “挖藕”</p>
-<figure data-type="image" tabindex="1"><img src="https://cdn.jsdelivr.net/gh/LeeYonAs/logli/usr/uploads/2021/09/4048177270.jpg" alt="v2-c20ac067cf182af91ba79fa991f3c460_720w.jpg" loading="lazy"></figure>
-<figure data-type="image" tabindex="2"><img src="https://cdn.jsdelivr.net/gh/LeeYonAs/logli/usr/uploads/2021/09/4055493931.png" alt="Snipaste_2021-08-28_10-28-19.png" loading="lazy"></figure>
-<figure data-type="image" tabindex="3"><img src="https://cdn.jsdelivr.net/gh/LeeYonAs/logli/usr/uploads/2021/09/472545357.png" alt="Snipaste_2021-08-28_10-32-45.png" loading="lazy"></figure>
-<figure data-type="image" tabindex="4"><img src="https://cdn.jsdelivr.net/gh/LeeYonAs/logli/usr/uploads/2021/09/1966209065.jpg" alt="v2-f3539cb7383e1104d52cdb88575f7604_r.jpg" loading="lazy"></figure>
-<figure data-type="image" tabindex="5"><img src="https://cdn.jsdelivr.net/gh/LeeYonAs/logli/usr/uploads/2021/09/1704943224.jpg" alt="v2-a587f811447c689d8e9eb4edd9710d73_r.jpg" loading="lazy"></figure>
-<figure data-type="image" tabindex="6"><img src="https://cdn.jsdelivr.net/gh/LeeYonAs/logli/usr/uploads/2021/09/3307817235.jpg" alt="v2-47556964ef15285a90d3b3b34a6526cb_r.jpg" loading="lazy"></figure>
-<figure data-type="image" tabindex="7"><img src="https://cdn.jsdelivr.net/gh/LeeYonAs/logli/usr/uploads/2021/09/4254376987.jpg" alt="v2-67688cee610eb8f2ca6c357df962a6a0_r.jpg" loading="lazy"></figure>
-<figure data-type="image" tabindex="8"><img src="https://cdn.jsdelivr.net/gh/LeeYonAs/logli/usr/uploads/2021/09/2802755312.jpg" alt="v2-7661cd33e1a678d0bfc6eaccd1d4344b_r.jpg" loading="lazy"></figure>
-<figure data-type="image" tabindex="9"><img src="https://cdn.jsdelivr.net/gh/LeeYonAs/logli/usr/uploads/2021/09/1014714550.jpg" alt="v2-7fd6ebd506353b82cbea71fe8941efe1_r.jpg" loading="lazy"></figure>
-<figure data-type="image" tabindex="10"><img src="https://cdn.jsdelivr.net/gh/LeeYonAs/logli/usr/uploads/2021/09/284315659.jpg" alt="v2-2d25e9ffa5bf2d4e9ecf778793f60b17_r.jpg" loading="lazy"></figure>
-<p><img src="https://cdn.jsdelivr.net/gh/LeeYonAs/logli/usr/uploads/2021/09/2380598018.jpg" alt="v2-0a02f3051bd8c51b8fc8efa496106bfd_r.jpg" loading="lazy"><br>
-<img src="https://cdn.jsdelivr.net/gh/LeeYonAs/logli/usr/uploads/2021/09/3741690503.jpg" alt="v2-e2c766eae89992e174cd85d0c10ab437_r.jpg" loading="lazy"></p>
-<figure data-type="image" tabindex="11"><img src="https://cdn.jsdelivr.net/gh/LeeYonAs/logli/usr/uploads/2021/09/160198734.jpg" alt="v2-6bbf7f96f831bcef23718ed0c380f9f2_r.jpg" loading="lazy"></figure>
-<figure data-type="image" tabindex="12"><img src="https://cdn.jsdelivr.net/gh/LeeYonAs/logli/usr/uploads/2021/09/443982861.jpg" alt="v2-44e9f29a6e252ae968629e2d093b56ab_r.jpg" loading="lazy"></figure>
-<figure data-type="image" tabindex="13"><img src="https://cdn.jsdelivr.net/gh/LeeYonAs/logli/usr/uploads/2021/09/1155531173.jpg" alt="v2-79391f40d63b1ad4d7280fccf047df89_1440w.jpg" loading="lazy"></figure>
-<figure data-type="image" tabindex="14"><img src="https://cdn.jsdelivr.net/gh/LeeYonAs/logli/usr/uploads/2021/09/290143704.jpg" alt="v2-6baccbadccf2681c61e21422dc27032f_r.jpg" loading="lazy"></figure>
-<figure data-type="image" tabindex="15"><img src="https://cdn.jsdelivr.net/gh/LeeYonAs/logli/usr/uploads/2021/09/1636407247.jpg" alt="v2-2192e7ecb2581e239f9e493ae3462d9d_r.jpg" loading="lazy"></figure>
-<figure data-type="image" tabindex="16"><img src="https://cdn.jsdelivr.net/gh/LeeYonAs/logli/usr/uploads/2021/09/1614131118.jpg" alt="v2-e42247a453f3923672779a2873c3a271_r.jpg" loading="lazy"></figure>
-<figure data-type="image" tabindex="17"><img src="https://cdn.jsdelivr.net/gh/LeeYonAs/logli/usr/uploads/2021/09/568635383.jpg" alt="v2-da25b65b922736cf73bb9f0db4a8bd26_r.jpg" loading="lazy"></figure>
-<figure data-type="image" tabindex="18"><img src="https://cdn.jsdelivr.net/gh/LeeYonAs/logli/usr/uploads/2021/09/3412195598.jpg" alt="v2-b52092ef35d4e286d01999132a521593_r.jpg" loading="lazy"></figure>
-<h2 id=""><img src="https://cdn.jsdelivr.net/gh/LeeYonAs/logli/usr/uploads/2021/09/1456816912.jpg" alt="v2-7efde37fa39eda0376bb44c390d16f6b_r.jpg" loading="lazy"></h2>
-]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>https://lysder.github.io/post/hello-gridea/</id>
-        <link href="https://lysder.github.io/post/hello-gridea/">
+        <id>https://lysder.github.io/hello-gridea/</id>
+        <link href="https://lysder.github.io/hello-gridea/">
         </link>
         <updated>2018-12-11T16:00:00.000Z</updated>
         <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
@@ -63,25 +30,6 @@ fffffffffffffffffffffffffffffffffff</p>
         <content type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
 ✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...<br>
 fffffffffffffffffffffffffffffffffff</p>
-<!-- more -->
-<p><a href="https://github.com/getgridea/gridea">Github</a><br>
-<a href="https://gridea.dev/">Gridea 主页</a><br>
-<a href="http://fehey.com/">示例网站</a></p>
-<h2 id="特性">特性👇</h2>
-<p>📝  你可以使用最酷的 <strong>Markdown</strong> 语法，进行快速创作</p>
-<p>🌉  你可以给文章配上精美的封面图和在文章任意位置插入图片</p>
-<p>🏷️  你可以对文章进行标签分组</p>
-<p>📋  你可以自定义菜单，甚至可以创建外部链接菜单</p>
-<p>💻  你可以在 <strong>Windows</strong>，<strong>MacOS</strong> 或 <strong>Linux</strong> 设备上使用此客户端</p>
-<p>🌎  你可以使用 <strong>𝖦𝗂𝗍𝗁𝗎𝖻 𝖯𝖺𝗀𝖾𝗌</strong> 或 <strong>Coding Pages</strong> 向世界展示，未来将支持更多平台</p>
-<p>💬  你可以进行简单的配置，接入 <a href="https://github.com/gitalk/gitalk">Gitalk</a> 或 <a href="https://github.com/SukkaW/DisqusJS">DisqusJS</a> 评论系统</p>
-<p>🇬🇧  你可以使用<strong>中文简体</strong>或<strong>英语</strong></p>
-<p>🌁  你可以任意使用应用内默认主题或任意第三方主题，强大的主题自定义能力</p>
-<p>🖥  你可以自定义源文件夹，利用 OneDrive、百度网盘、iCloud、Dropbox 等进行多设备同步</p>
-<p>🌱 当然 <strong>Gridea</strong> 还很年轻，有很多不足，但请相信，它会不停向前 🏃</p>
-<p>未来，它一定会成为你离不开的伙伴</p>
-<p>尽情发挥你的才华吧！</p>
-<p>😘 Enjoy~</p>
 ]]></content>
     </entry>
 </feed>
